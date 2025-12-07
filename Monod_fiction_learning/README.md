@@ -90,7 +90,7 @@ maxfev
 
 popt
 
-最优拟合参数数组（顺序与f的参数一致），如Monod方程中popt[0]=$\mu_{max}$，popt[1]=$K_s$ ；
+最优拟合参数数组（顺序与f的参数一致）；
 
 pcov
 
